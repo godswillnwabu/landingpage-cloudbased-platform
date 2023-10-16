@@ -1,5 +1,5 @@
 # landingpage-cloudbased-platform
-This is a Landing Page for a cloudbased-platform; Live Site URL: [Visit the page]()
+This is a Landing Page for a cloudbased-platform; Live Site URL: [Visit the page](https://godswillnwabu.github.io/landingpage-cloudbased-platform/)
 
 ## Screenshot
 ![HomePage](https://github.com/godswillnwabu/landingpage-cloudbased-platform/assets/112035653/42dab4df-bf28-497d-91ce-191ae5c97fac)
