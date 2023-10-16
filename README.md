@@ -2,8 +2,8 @@
 This is a Landing Page for a cloudbased-platform; Live Site URL: [Visit the page]()
 
 ## Screenshot
-![Home-Page](https://github.com/godswillnwabu/Connak-Non-Profit-Website/blob/main/Annotation%202023-09-21%20130216.jpg)
-![Signin/Signup](https://github.com/godswillnwabu/Connak-Non-Profit-Website/blob/main/Annotation%202023-09-21%20130402.jpg)
+![HomePage](https://github.com/godswillnwabu/landingpage-cloudbased-platform/assets/112035653/42dab4df-bf28-497d-91ce-191ae5c97fac)
+![Sign-in/Sign-up](https://github.com/godswillnwabu/landingpage-cloudbased-platform/assets/112035653/e1f10b89-e0a0-456b-b109-88e07fb2ada4)
 
 ## Technologies 
 Project is created with: 
